@@ -65,9 +65,7 @@ This project is licensed under the Deepak Kumar https://thedeepak2601.github.io 
 <img width="1470" alt="Portfolio" src="https://github.com/user-attachments/assets/b968281a-5b88-473f-ae6e-59c46b276576">
 
 
-<h1>MADE BY <a href="https://thedeepak2601.github.io" target="_blank">DEEPAK KUMAR</a></h1>
-```bash
-   git https://thedeepak2601.github.io
+<h2>MADE BY <a href="https://thedeepak2601.github.io" target="_blank">DEEPAK KUMAR</a></h2>
 
 
 
