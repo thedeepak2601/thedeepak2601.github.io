@@ -28,12 +28,11 @@ Ensure you have the following installed:
 1. Clone the repository:
    ```bash
    - [Git](git clone https://github.com/your-username/Personal-Portfolio_Website.git)
-   git clone https://github.com/your-username/Personal-Portfolio_Website.git
 
 2. Navigate to the project directory:
-  cd Personal-Portfolio_Website
+  - [Git](cd Personal-Portfolio_Website)
 
-3. Open the index.html file in your browser to view the website.
+4. Open the index.html file in your browser to view the website.
 
 ## Usage
 * Open the website in a web browser.
