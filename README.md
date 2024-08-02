@@ -66,6 +66,8 @@ This project is licensed under the Deepak Kumar https://thedeepak2601.github.io 
 
 
 <h1>MADE BY <a href="https://thedeepak2601.github.io" target="_blank">DEEPAK KUMAR</a></h1>
+```bash
+   https://thedeepak2601.github.io
 
 
 
