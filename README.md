@@ -30,8 +30,9 @@ Ensure you have the following installed:
    - [Git](git clone https://github.com/your-username/Personal-Portfolio_Website.git)
 
 2. Navigate to the project directory:
-  ```bash
-  - [Git](cd Personal-Portfolio_Website)
+   ```bash
+   cd Personal-Portfolio_Website
+
 
 4. Open the index.html file in your browser to view the website.
 
