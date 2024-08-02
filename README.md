@@ -27,6 +27,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
+   - [Git](git clone https://github.com/your-username/Personal-Portfolio_Website.git)
    git clone https://github.com/your-username/Personal-Portfolio_Website.git
 
 2. Navigate to the project directory:
