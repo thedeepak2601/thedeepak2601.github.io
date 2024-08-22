@@ -461,7 +461,7 @@ section{
 .experience .box-container .box1 h1{
     color: #27ae60;
     font-size:2rem;
-    padding: 1.2rem;
+/*     padding: 1.2rem; */
 }
 .item{
     height: 17rem;   
